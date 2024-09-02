@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 👋
 
 I'm Namia Mohamed Ali, an experienced Data Scientist passionate about leveraging data to drive insights and enhance user experiences. Skilled in Python, Machine Learning, Deep Learning, and Data Visualization, I aim to inspire others and lead them into the vast domain of this field by sharing my passion through writing, teaching, and mentoring.
 
-🚀 **Skills**: Python, SQL, Machine Learning, Data Visualization, Organizational dashboarding(Tableau), TensorFlow, PyTorch, Research Methodology
+🚀 **Skills**: Python, SQL, Machine Learning, Deep Learning, Data Visualization, Organizational dashboarding(Tableau), TensorFlow, PyTorch, Research Methodology
 Data Collection and Analysis
 Adaptability
 Learning Agility
